@@ -1,11 +1,49 @@
 {
   "version": 4,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Allatmenhely.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Allatmenhely.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Allatmenhely.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Allatmenhely.DAL.dll": {}
+        }
+      },
+      "Allatmenhely.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Allatmenhely.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Allatmenhely.Model.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Allatmenhely.DAL/1.0.0": {
+      "type": "project",
+      "path": "../Allatmenhely.DAL/Allatmenhely.DAL.csproj",
+      "msbuildProject": "../Allatmenhely.DAL/Allatmenhely.DAL.csproj"
+    },
+    "Allatmenhely.Model/1.0.0": {
+      "type": "project",
+      "path": "../Allatmenhely.Model/Allatmenhely.Model.csproj",
+      "msbuildProject": "../Allatmenhely.Model/Allatmenhely.Model.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "Allatmenhely.DAL >= 1.0.0",
+      "Allatmenhely.Model >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\vagok\\.nuget\\packages\\": {},
@@ -40,7 +78,14 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\vagok\\Asztal\\github\\Allatmenhely\\Allatmenhely.DAL\\Allatmenhely.DAL.csproj": {
+              "projectPath": "C:\\Users\\vagok\\Asztal\\github\\Allatmenhely\\Allatmenhely.DAL\\Allatmenhely.DAL.csproj"
+            },
+            "C:\\Users\\vagok\\Asztal\\github\\Allatmenhely\\Allatmenhely.Model\\Allatmenhely.Model.csproj": {
+              "projectPath": "C:\\Users\\vagok\\Asztal\\github\\Allatmenhely\\Allatmenhely.Model\\Allatmenhely.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
