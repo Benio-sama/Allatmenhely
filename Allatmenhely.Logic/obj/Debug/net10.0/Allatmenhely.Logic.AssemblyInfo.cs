@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Allatmenhely.Logic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b9e8318989a6d8aa9553775f19ad8efac2cedd8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Allatmenhely.Logic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Allatmenhely.Logic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

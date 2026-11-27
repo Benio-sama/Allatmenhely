@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\vagok\\Asztal\\github\\Allatmenhely\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{642B0736-7AC8-4F41-A905-352465D8826A}|Allatmenhely.Logic\\Allatmenhely.Logic.csproj|c:\\users\\vagok\\asztal\\github\\allatmenhely\\allatmenhely.logic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642B0736-7AC8-4F41-A905-352465D8826A}|Allatmenhely.Logic\\Allatmenhely.Logic.csproj|solutionrelative:allatmenhely.logic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035EA105-F2E8-4ED1-9B94-D0F44B7DAD53}|Allatmenhely.DAL\\Allatmenhely.DAL.csproj|c:\\users\\vagok\\asztal\\github\\allatmenhely\\allatmenhely.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035EA105-F2E8-4ED1-9B94-D0F44B7DAD53}|Allatmenhely.DAL\\Allatmenhely.DAL.csproj|solutionrelative:allatmenhely.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA3934A-B96F-4593-BBCF-C5DE94C42626}|Allatmenhely.Model\\Allatmenhely.Model.csproj|c:\\users\\vagok\\asztal\\github\\allatmenhely\\allatmenhely.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA3934A-B96F-4593-BBCF-C5DE94C42626}|Allatmenhely.Model\\Allatmenhely.Model.csproj|solutionrelative:allatmenhely.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0F7E01AD-CEF7-47EE-AB5B-6D0DAD22B218}|Allatmenhely\\Allatmenhely.csproj|c:\\users\\vagok\\asztal\\github\\allatmenhely\\allatmenhely\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F7E01AD-CEF7-47EE-AB5B-6D0DAD22B218}|Allatmenhely\\Allatmenhely.csproj|solutionrelative:allatmenhely\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +35,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\vagok\\Asztal\\github\\Allatmenhely\\Allatmenhely.Logic\\Class1.cs",
+              "RelativeDocumentMoniker": "Allatmenhely.Logic\\Class1.cs",
+              "ToolTip": "C:\\Users\\vagok\\Asztal\\github\\Allatmenhely\\Allatmenhely.Logic\\Class1.cs",
+              "RelativeToolTip": "Allatmenhely.Logic\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T20:54:08.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\vagok\\Asztal\\github\\Allatmenhely\\Allatmenhely.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "Allatmenhely.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\vagok\\Asztal\\github\\Allatmenhely\\Allatmenhely.DAL\\Class1.cs",
+              "RelativeToolTip": "Allatmenhely.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T20:53:42.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\vagok\\Asztal\\github\\Allatmenhely\\Allatmenhely.Model\\Class1.cs",
+              "RelativeDocumentMoniker": "Allatmenhely.Model\\Class1.cs",
+              "ToolTip": "C:\\Users\\vagok\\Asztal\\github\\Allatmenhely\\Allatmenhely.Model\\Class1.cs",
+              "RelativeToolTip": "Allatmenhely.Model\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T20:53:05.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vagok\\Asztal\\github\\Allatmenhely\\Allatmenhely\\Program.cs",
               "RelativeDocumentMoniker": "Allatmenhely\\Program.cs",
               "ToolTip": "C:\\Users\\vagok\\Asztal\\github\\Allatmenhely\\Allatmenhely\\Program.cs",
               "RelativeToolTip": "Allatmenhely\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-24T20:25:20.835Z",
               "EditorCaption": ""

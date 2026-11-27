@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Allatmenhely.DAL\Allatmenhely.DAL.csproj" />
+    <ProjectReference Include="..\Allatmenhely.Logic\Allatmenhely.Logic.csproj" />
+    <ProjectReference Include="..\Allatmenhely.Model\Allatmenhely.Model.csproj" />
+  </ItemGroup>
+
 </Project>
