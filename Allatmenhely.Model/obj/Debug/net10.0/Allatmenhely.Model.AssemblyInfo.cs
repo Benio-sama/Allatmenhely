@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Allatmenhely.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30d9a45329dfc8699f92e51e3dd50a1db492278d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Allatmenhely.Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Allatmenhely.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
