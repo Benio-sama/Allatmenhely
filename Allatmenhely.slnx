@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Allatmenhely.DAL/Allatmenhely.DAL.csproj" />
+  <Project Path="Allatmenhely.Logic/Allatmenhely.Logic.csproj" />
+  <Project Path="Allatmenhely.Model/Allatmenhely.Model.csproj" />
+  <Project Path="Allatmenhely/Allatmenhely.csproj" />
+</Solution>
